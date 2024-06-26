@@ -1,7 +1,7 @@
 ![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
 <h1 align="center">Hi 👋, I'm Hafijur Rahman</h1>
 <h3 align="center">I am a front-end developer with 1 year of experience. I specialize in creating websites and front-end applications. My skills include front-end technologies like React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, Tailwind CSS, and GitHub.</h3>
-<img align="right" alt="Coding" width="300" height="300" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg"
+<img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafijur0211&label=Profile%20views&color=0e75b6&style=flat" alt="hafijur0211" /> </p>
 
